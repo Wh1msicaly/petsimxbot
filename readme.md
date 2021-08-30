@@ -1,6 +1,6 @@
 # Robox | Pet Simulator X Farming bot.
 ## _A autofarming bot that using macros. (Compiles with rules)_
-_License CC BY-NC_
+_License CC BY-NC 2.0_
 
 ## Prerequesites
 

@@ -1,12 +1,12 @@
-# Pet Sim X Bot
-## _A autofarming bot that using macros. (not bannable)_
-_sdasda_
+# Robox | Pet Simulator X Farming bot.
+## _A autofarming bot that using macros. (Compiles with rules)_
+_License CC BY-NC_
 
 ## Prerequesites
 
 - Requires Windows
-- Requires auto hot key installed https://www.autohotkey.com/
-
+- Requires AutoHotKey 
+https://www.autohotkey.com/
 ## How to use!
 
 1) Make sure that you configure all of the correct settings within the app! 
@@ -14,3 +14,5 @@ _sdasda_
 3) Hover mouse over chest and press F3 to start
 4) Profit!
 
+
+problems? contact me via discord whim#2127

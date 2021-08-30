@@ -9,6 +9,8 @@ _sdasda_
 
 ## How to use!
 
-Coming soon ;/ lazy
-
+1) Make sure that you configure all of the correct settings within the app! 
+2) Select a pet on a chest and align you screen so the progress bar is visible.
+3) Hover mouse over chest and press F3 to start
+4) Profit!
 
